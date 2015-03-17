@@ -1,6 +1,10 @@
-'metrics':
-  'userId': '19491b8799cfdf4c739014074fdbc7eabd2e32d2'
-'exception-reporting':
-  'userId': 'b46f52e0-b92f-4aea-7c4c-41af8ef7bee7'
-'welcome':
-  'showOnStartup': false
+'global':
+  'exception-reporting':
+    'userId': '05fdaabe-65a9-93a4-897c-a52643bbb4e7'
+  'welcome':
+    'showOnStartup': false
+  'metrics':
+    'userId': 'ac5031f5d051441c4dfd6126f73906129bb6211d'
+  'core': {}
+  'editor':
+    'invisibles': {}
